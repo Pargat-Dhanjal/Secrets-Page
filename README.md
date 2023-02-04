@@ -1,2 +1,3 @@
 # Secrets-Page
-Authenticates and displays the secrets of the users
+
+Created this web application following this course [here](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
